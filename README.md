@@ -5,7 +5,7 @@
 A very opinionated & crude attempt at redesigning Gnome DE in a Neumorphism / Aurora style with the main criteria being it would be something I'd personally use (Dark theme, has a dock & app indicators and just things I think look generally nice)
 
 ### WIP Screenshot (Updated last: March 15th)
-![Screenshot](./assets/wip-aurora-v0.png)
+![Screenshot](https://raw.githubusercontent.com/jakejarrett/gnome-aurora/main/assets/wip/wip-aurora-v0.png)
 
 ## Crude Styleguide (Will convert to a better format later on)
 
